@@ -14,8 +14,8 @@ impl eframe::App for MyApp {
 fn main() -> eframe::Result<(), eframe::Error> {
     run_native("Source Spray Manager",
     NativeOptions::default(),
-    AppCreator::Box::new(| cc: &CreationContext<'_>|{
+    app_Creator::Box::new(| cc: &CreationContext<'_>|{
         Box::new(MyApp {})
-    }));
+    }))
 }
 //test
