@@ -6,3 +6,5 @@ edition = "2024"
 [dependencies]
 eframe = "*"
 egui = "*"
+vtflib-sys = "*"
+image = "*"
