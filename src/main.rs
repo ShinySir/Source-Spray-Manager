@@ -16,6 +16,6 @@ fn main() -> eframe::Result<(), eframe::Error> {
     "Source Spray Manager",
     NativeOptions::default(),
     Box::new(|_cc: &CreationContext<'_>|{
-        Box::new(SSM {})
+        Ok(Box::new(SSM {}))
     }))
 }
