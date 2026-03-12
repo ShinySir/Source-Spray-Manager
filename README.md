@@ -30,6 +30,8 @@ I have made this because I was tired on how clunky the in game UI for selecting 
 
 download either the linux binary or windows msvc exe file depending which system you use
 
+Mac is completly untested as I dont own any Mac devices
+
 ---
 
 ## Compiling
