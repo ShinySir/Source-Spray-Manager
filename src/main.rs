@@ -199,11 +199,11 @@ fn set_as_spray(selected_file: &str, directory_path: &str) {
         "\"UnlitGeneric\"\n{{\n\t\"$basetexture\"\t\"vgui/logos/{}\"\n\t\"$translucent\" \"1\"\n\t\"$ignorez\" \"1\"\n\t\"$vertexcolor\" \"1\"\n\t\"$vertexalpha\" \"1\"\n}}",
         selected_file.trim_end_matches(".vtf")
     );
-    fs::write(format!("{}/sprays.vmt", directory_path), vmt_content).expect("Unable to write file");
+    fs::write(format!("{}/spray.vmt", directory_path), vmt_content).expect("Unable to write file");
     //copy the selected vtf file to the same directory with the name "spray.vtf"
     fs::copy(format!("{}/{}", directory_path, selected_file), format!("{}/spray.vtf", directory_path)).expect("Unable to copy file");
     //copy vmt file to the same directory with the name "spray.vmt"
-    fs::copy(format!("{}/sprays.vmt", directory_path), format!("{}/spray.vmt", directory_path)).expect("Unable to copy file");
+    fs::copy(format!("{}/spray.vmt", directory_path), format!("{}/spray.vmt", directory_path)).expect("Unable to copy file");
 }
 
 
