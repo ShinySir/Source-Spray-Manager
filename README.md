@@ -29,7 +29,7 @@ I have made this because I was tired on how clunky the in game UI for selecting 
 
 ## Installation
 
-[Releases](https://github.com/<owner>/<repo>/releases)
+[Releases](./releases)
 
 download either the linux binary or windows msvc exe file depending which system you use
 
