@@ -6,6 +6,7 @@
 Source Spray Selector is a simple spray selector desktop application written in Rust using [`egui`](https://docs.rs/egui/latest/egui/) for browsing, previewing, and managing `.vtf` spray files used in Source engine games.
 
 I have made this because I was tired on how clunky the in game UI for selecting of sprays, when you have alot of sprays it gets very tedious to choose, like the file names gets cut off if its long enough
+
 ---
 
 ## Features
