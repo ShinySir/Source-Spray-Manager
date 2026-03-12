@@ -1,6 +1,7 @@
 [package]
-name = "Source_Spray_Manager"
+name = "Source_Spray_Selector"
 version = "0.1.0"
+authors = ["shadow <puro@mailbox.org>"]
 edition = "2024"
 
 [dependencies]

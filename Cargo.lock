@@ -3,7 +3,7 @@
 version = 4
 
 [[package]]
-name = "Source_Spray_Manager"
+name = "Source_Spray_Selector"
 version = "0.1.0"
 dependencies = [
  "bcndecode",
