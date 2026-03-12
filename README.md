@@ -18,11 +18,12 @@ I have made this because I was tired on how clunky the in game UI for selecting 
 
 ## Screenshots
 
+windows:
 <img width="802" height="632" alt="Source_Spray_Manager_20260312_10-36PM25 765" src="https://github.com/user-attachments/assets/cd150d22-cdf4-4b7f-8257-e561ba7a8512" />
-
 
 <img width="802" height="632" alt="Source_Spray_Manager_20260312_10-36PM19 142" src="https://github.com/user-attachments/assets/5ef302be-a107-4638-8056-0a124f7da0ee" />
 
+wayland:
 <img width="1342" height="1015" alt="image_2026-03-12_17-06-57" src="https://github.com/user-attachments/assets/f49561ad-671d-4c1c-915b-81a52171d66c" />
 
 
