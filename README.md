@@ -1,0 +1,63 @@
+# Source Spray Selector
+
+[![Rust](https://img.shields.io/badge/rust-1.94-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/) 
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+Source Spray Selector is a simple spray selector desktop application written in Rust using [`egui`](https://docs.rs/egui/latest/egui/) for browsing, previewing, and managing `.vtf` spray files used in Source engine games.
+
+I have made this because I was tired on how clunky the in game UI for selecting of sprays, when you have alot of sprays it gets very tedious to choose, like the file names gets cut off if its long enough
+
+---
+
+## Features
+
+- Favoriting via Right Click
+- Applying Sprays for your Source Engine Games
+
+---
+
+## Screenshots
+
+windows:
+
+<img width="802" height="632" alt="Source_Spray_Manager_20260312_10-36PM25 765" src="https://github.com/user-attachments/assets/cd150d22-cdf4-4b7f-8257-e561ba7a8512" />
+
+<img width="802" height="632" alt="Source_Spray_Manager_20260312_10-36PM19 142" src="https://github.com/user-attachments/assets/5ef302be-a107-4638-8056-0a124f7da0ee" />
+
+wayland:
+
+<img width="1342" height="1015" alt="image_2026-03-12_17-06-57" src="https://github.com/user-attachments/assets/f49561ad-671d-4c1c-915b-81a52171d66c" />
+
+x11:
+
+<img width="914" height="749" alt="image_2026-03-13_01-41-27" src="https://github.com/user-attachments/assets/cdd3dc9f-dc18-4b5e-b5d9-6437e8120db2" />
+
+
+---
+
+## Usage
+
+input a file path to the folder that will contain where the game stores sprays on ususally /materials/vgui/logos
+
+example: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials\vgui\logos
+
+select a vtf file then select spray
+
+you can add favorites via right clicking
+
+---
+
+## Installation
+
+[Releases](https://github.com/ShinySir/Source-Spray-Selector/releases)
+
+download either the linux binary or windows msvc exe file depending which system you use
+
+Mac is completly untested as I dont own any Mac devices
+
+---
+
+## Compiling
+
+cargo build --release after downloading the source files
