@@ -1,6 +1,6 @@
 # Source Spray Selector
 
-[![Rust](https://img.shields.io/badge/rust-1.72+-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/) 
+[![Rust](https://img.shields.io/badge/rust-1.94-orange?logo=rust&logoColor=white)](https://www.rust-lang.org/) 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
