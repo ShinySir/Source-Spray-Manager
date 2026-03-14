@@ -22,11 +22,11 @@ I have made this because I was tired on how clunky the in game UI for selecting 
 
 windows:
 
-<img width="400" height=auto alt="Source_Spray_Manager_20260312_10-36PM25 765" src="https://github.com/ShinySir/Source-Spray-Selector/blob/master/assets/a1.png" />
+<img width="240" height=auto alt="Source_Spray_Manager_20260312_10-36PM25 765" src="https://github.com/ShinySir/Source-Spray-Selector/blob/master/assets/a1.png" />
 
-<img width="400" height=auto alt="Source_Spray_Manager_20260312_10-36PM19 142" src="https://github.com/ShinySir/Source-Spray-Selector/blob/master/assets/a2.png" />
+<img width="240" height=auto alt="Source_Spray_Manager_20260312_10-36PM19 142" src="https://github.com/ShinySir/Source-Spray-Selector/blob/master/assets/a2.png" />
 
-<img width="400" height=auto alt="Source_Spray_Manager_20260312_10-36PM19 142" src="https://github.com/ShinySir/Source-Spray-Selector/blob/master/assets/a3.png" />
+<img width="240" height=auto alt="Source_Spray_Manager_20260312_10-36PM19 142" src="https://github.com/ShinySir/Source-Spray-Selector/blob/master/assets/a3.png" />
 
 linux wayland and x11 (old version):
 
