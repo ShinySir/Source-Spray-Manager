@@ -14,6 +14,7 @@ I have made this because I was tired on how clunky the in game UI for selecting 
 
 - Favoriting via Right Click
 - Applying Sprays for your Source Engine Games
+- Saving and Loading of Game Profiles
 
 ---
 
