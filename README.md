@@ -25,7 +25,7 @@ windows:
 <img width="400" height=auto alt="Source_Spray_Manager_20260312_10-36PM25 765" src="https://raw.githubusercontent.com/ShinySir/Source-Spray-Selector/refs/heads/master/assets/a1.png" />
 
 <img width="400" height=auto alt="Source_Spray_Manager_20260312_10-36PM25 765" src="https://raw.githubusercontent.com/ShinySir/Source-Spray-Selector/refs/heads/master/assets/a2.png" />
-
+<br>
 <img width="400" height=auto alt="Source_Spray_Manager_20260312_10-36PM25 765" src="https://raw.githubusercontent.com/ShinySir/Source-Spray-Selector/refs/heads/master/assets/a3.png" />
 
 linux wayland and x11 (old version):
